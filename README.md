@@ -1,7 +1,5 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is the second project after <a href="https://github.com/yll12/WuKongHourOfCode">WuKongHourOfCode</a>.
-
 <a href="https://youtu.be/Ph1tOzIDEV8">Youtube preview</a>
 
 Features I implemented:
