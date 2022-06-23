@@ -12,6 +12,8 @@
 
 <a href="https://youtu.be/YmqvZnoWNvU">Youtube preview</a>
 
+[![Youtube preview](https://img.youtube.com/vi/YmqvZnoWNvU/default.jpg)](https://youtu.be/YmqvZnoWNvU)
+
 Features I implemented:
 * Wukong's ability to attack(4-hit combo with particle effects), block, sprint, lock-on target
 * Health and stamina HUD
